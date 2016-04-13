@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/krischamp/nodeGetTogether/issues"
   },
-  "homepage": "https://github.com/krischamp/nodeGetTogether#readme"
+  "homepage": "https://github.com/krischamp/nodeGetTogether#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
